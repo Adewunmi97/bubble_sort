@@ -20,7 +20,29 @@ Visual code
 
 ## Prerequisites
 
-Text editor,Github profile and Git.
+Ruby,Text editor,Github profile and Git.
+
+## Getting started
+
+Before getting started make sure that ruby is installed.
+
+- Start by cloning this repository to your local machine :
+
+```bash
+git clone git@github.com:Adewunmi97/bubble_sort.git
+```
+
+- Access the cloned repoository :
+
+```bash
+cd bubble_sort
+```
+
+- Run this command :
+
+```bash
+ruby bubble_sort.rb
+```
 
 ## Authors
 
